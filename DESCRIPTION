@@ -1,12 +1,15 @@
 Package: rarma
-Title: What the Package Does (One Line, Title Case)
+Title: Package to accompany "R, A Researcher’s Modern Approach" (RARMA)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jed",
+           family = "Stephens",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "stpjed@gmail.com")
+Description: This package contains all the datasets for the book, "R, A Researcher’s Modern Approach" (RARMA).
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 3.5.0)
+Imports: tibble
+RoxygenNote: 6.1.0
