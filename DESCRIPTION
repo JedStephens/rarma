@@ -7,9 +7,9 @@ Authors@R:
            role = c("aut", "cre"),
            email = "stpjed@gmail.com")
 Description: This package contains all the datasets for the book, "R, A Researcher’s Modern Approach" (RARMA).
-License: What license it uses
+License: CC0
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.0)
 Imports: tibble
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1

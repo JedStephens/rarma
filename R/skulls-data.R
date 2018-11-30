@@ -1,7 +1,7 @@
 #' @name skulls
 #' @title Five time periods of measurements describing a skull in the Thebaid
 #' @docType data
-#' @description
+#' @description to describe
 #' @format A data frame with thirty skull realisaitons over five time periods for a total of 150 obsersavtions
 #' \describe{
 #'   \item{maximal_breadth}{Maximum length in millimeters}
