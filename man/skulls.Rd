@@ -20,7 +20,7 @@ The data is in Insert (which is at the end of the volume).
 skulls
 }
 \description{
-Five time periods of measurements describing a skull in the Thebaid
+to describe
 }
 \details{
 Zea mays (maize) plant height in an experiment conducted by Darwin on
