@@ -1,0 +1,13 @@
+﻿month_number;month;season_southern_hemisphere;season_northern_hemisphere
+1;January;summer;winter
+2;February;summer;winter
+3;March;autumn;spring
+4;April;autumn;spring
+5;May;autumn;spring
+6;June;winter;summer
+7;July;winter;summer
+8;August;winter;summer
+9;September;spring;autumn
+10;October;spring;autumn
+11;November;spring;autumn
+12;December;summer;winter

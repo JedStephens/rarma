@@ -4,7 +4,7 @@
 \name{woodgate_display}
 \alias{woodgate_display}
 \title{Woodgate's camera trap sighting for 25 sites in Karoo, South Africa}
-\format{A tibble with 333 observations for 6 variables}
+\format{A tibble with 25 rows and 39 columns}
 \source{
 https://www.tandfonline.com/doi/suppl/10.2989/10220119.2018.1522513
 }
